@@ -38,6 +38,12 @@
 
 ---
 
+<p align="center">
+  <img src="YOUR_GIF_FILENAME.gif" alt="banner" width="80%"/>
+</p>
+
+---
+
 ## 👾 About
 
 ```
@@ -53,42 +59,6 @@ I have executed engagements at **DataProtect**, built detection systems achievin
 I write automation in **Python, PowerShell, and Bash**, build secure full-stack applications, and apply frameworks including **MITRE ATT&CK, PTES, Cyber Kill Chain, and ISO 27001** in every engagement.
 
 **Open To:** Penetration Testing roles · SOC / Blue Team positions · Security Research · Offensive Security Engineering · Red Team operations
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,bash,powershell&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <sub><b>Languages</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <sub><b>Frontend & Web</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,php,express&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <sub><b>Backend & Databases</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,kali&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <sub><b>Systems, DevOps & Tooling</b></sub>
-</p>
 
 ---
 
@@ -110,183 +80,6 @@ I write automation in **Python, PowerShell, and Bash**, build secure full-stack 
 | **Network Security** | █████████░ Advanced | Firewall (WatchGuard, Fortinet), WAF, DLP, EDR/XDR |
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🔭 Automated External Reconnaissance Framework + Data Breach Check</b></summary>
-<br>
-
-An end-to-end automated reconnaissance platform engineered to map external attack surfaces at scale. The framework orchestrates subdomain discovery, technology fingerprinting, vulnerability surface mapping, and data breach correlation — all consolidated into interactive attack graph visualizations designed for offensive security assessments.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, Security APIs (VirusTotal, Shodan, HaveIBeenPwned), NetworkX, D3.js |
-| **Category** | Offensive Security / OSINT Automation |
-| **Scope** | External attack surface enumeration — subdomains, tech stack, exposed assets |
-| **Performance** | Multi-threaded API orchestration with deduplication and rate-limit handling |
-| **Security** | Passive & active recon modes; breach correlation against known leak databases |
-| **Impact** | Reduces manual recon time by 80%+; produces analyst-ready attack graphs |
-| **Repository** | [github.com/H1sok444](https://github.com/H1sok444) |
-
-</div>
-
-The framework integrates with multiple threat intelligence APIs to cross-reference discovered assets against known breach datasets, generating structured reports that map directly to MITRE ATT&CK Reconnaissance (TA0043) techniques. Designed to support both red team pre-engagement and continuous external exposure monitoring.
-
-</details>
-
-<details>
-<summary><b>🔍 Web Parameter Vulnerability Scanner</b></summary>
-<br>
-
-An automated web application security tool that crawls target applications, extracts injectable parameters, and systematically tests them with curated payloads targeting XSS, SQL injection, IDOR, and command injection vulnerabilities. Produces structured, analyst-ready security reports aligned with OWASP Top 10 findings.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, BeautifulSoup, Requests, custom payload libraries |
-| **Category** | Web Application Security / Recon & Exploitation |
-| **Scope** | Full parameter discovery — GET/POST/headers/cookies across application flows |
-| **Performance** | Concurrent crawling with configurable depth and thread pooling |
-| **Security** | Payload coverage: XSS, SQLi, IDOR, SSTI, Open Redirect, Command Injection |
-| **Impact** | Structured OWASP-mapped reports; exploitable findings ready for triage |
-| **Repository** | [github.com/H1sok444](https://github.com/H1sok444) |
-
-</div>
-
-Built to address the gap between automated scanners and manual testing workflows. The scanner intelligently detects reflection and error-based vulnerability indicators, ranks findings by severity, and produces documentation that directly feeds penetration test reports — reducing manual payload testing overhead significantly.
-
-</details>
-
-<details>
-<summary><b>🛡️ SIEM + IDS/IPS Detection Stack (SOC/Defense)</b></summary>
-<br>
-
-A production-grade SOC detection infrastructure deployed over a live web server environment, centralizing log ingestion, correlation, and automated alerting. Engineered to minimize noise while maximizing detection fidelity, with a true positive rate of 88% validated in a real operational environment.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Wazuh, Splunk, Suricata, ELK Stack, custom detection rules |
-| **Category** | Defensive Security / SOC Engineering |
-| **Scope** | Web server log centralization, network traffic analysis, endpoint monitoring |
-| **Performance** | 88% true positive rate; noise reduction through custom rule tuning |
-| **Security** | Network + application layer detection; real-time alerting; automated response |
-| **Impact** | SOC-exploitable dashboards and reports; incident timeline reconstruction |
-| **Repository** | [github.com/H1sok444](https://github.com/H1sok444) |
-
-</div>
-
-The stack implements a layered detection model: Suricata handles network-layer signature matching, Wazuh aggregates host-level events, and the ELK pipeline correlates both streams into unified dashboards. Custom detection rules were tuned iteratively against real attack simulations to achieve the 88% TPR benchmark with manageable false positive load.
-
-</details>
-
-<details>
-<summary><b>🏗️ Real Estate Platform — Develop & Break</b></summary>
-<br>
-
-A dual-phase project combining full-stack web development with applied penetration testing. A complete real estate platform was built from scratch, then subjected to a comprehensive OWASP Top 10 application security assessment — with all identified vulnerabilities remediated directly in the source code, closing the loop between development and security.
-
-<div align="center">
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | JavaScript, Node.js, MySQL, REST APIs, HTML/CSS |
-| **Category** | Full-Stack Development + Application Security Testing |
-| **Scope** | Property listings, agent/owner portal, authentication, access control |
-| **Performance** | Full CRUD operations with role-based access and session management |
-| **Security** | SQLi, XSS, IDOR, Broken Access Control, Security Misconfiguration — all remediated |
-| **Impact** | End-to-end secure SDLC demonstration; source-level vulnerability remediation |
-| **Repository** | [github.com/H1sok444](https://github.com/H1sok444) |
-
-</div>
-
-This project demonstrates the ability to operate across both sides of the security equation within a single codebase. The pentest phase followed a structured OWASP Top 10 methodology using Burp Suite, manual injection testing, and access control bypass attempts — with each finding mapped to its source code location and patched before final delivery.
-
-</details>
-
----
-
-## 💼 Experience
-
-### Penetration Tester Intern · **DataProtect**
-`October 2025 — April 2026`
-
-DataProtect is a leading cybersecurity firm in North Africa. As a Penetration Tester Intern, I conduct structured security assessments across web applications, network infrastructure, and system environments — applying industry-standard methodologies in real client engagements.
-
-- Executed penetration tests on web, network, and system targets following PTES and OWASP Top 10 methodologies
-- Simulated real-world attack scenarios including privilege escalation, access control bypass, and misconfiguration exploitation
-- Applied security compliance standards in vulnerability remediation reporting
-- Delivered professional pentest reports to client-facing security teams
-
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-6d28d9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-5b21b6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-4c1d95?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PTES-6d28d9?style=flat-square&logoColor=white"/>
-</p>
-
----
-
-### SOC Engineer Intern · **Annour Technologies**
-`March 2025 — July 2025`
-
-Annour Technologies is a technology services provider where I engineered and operated a full defensive security stack, achieving measurable detection performance in a live network environment with ongoing threat activity.
-
-- Engineered a defensive SIEM system using Wazuh and Splunk, achieving an 88% true positive detection rate
-- Configured IDS/IPS detection rules (Suricata/Snort) tailored to network topology and threat profile
-- Produced daily incident reports and delivered security briefings to management
-- Defined and enforced network security policies aligned with ISO 27001 controls
-
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-6d28d9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-5b21b6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-4c1d95?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ISO%2027001-6d28d9?style=flat-square&logoColor=white"/>
-</p>
-
----
-
-### Penetration Tester · **AXA Assurance Samouh**
-`February 24 — February 28, 2025`
-
-Conducted an independent internal network security audit for a major insurance group, covering full infrastructure assessment and employee security awareness.
-
-- Audited internal network infrastructure including routers, switches, and connected assets
-- Performed vulnerability analysis and delivered a formal remediation report
-- Conducted employee security awareness training focused on phishing simulation and best practices
-
-<p>
-  <img src="https://img.shields.io/badge/Network%20Audit-6d28d9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security%20Awareness-5b21b6?style=flat-square&logoColor=white"/>
-</p>
-
----
-
-### Full-Stack Developer Intern · **Artiweb**
-`July 2023 — September 2023`
-
-Designed and built a hotel aggregation platform integrating third-party booking APIs, with application security controls embedded throughout the development lifecycle.
-
-- Developed a hotel aggregation platform consuming Booking.com and similar REST APIs
-- Built a real estate sub-application for agents and property owners
-- Integrated authentication, session management, and access control following application security best practices
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6d28d9?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-7c3aed?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-5b21b6?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AppSec-4c1d95?style=flat-square&logoColor=white"/>
-</p>
 
 ---
 
@@ -375,22 +168,6 @@ Designed and built a hotel aggregation platform integrating third-party booking 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=H1sok444&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=a78bfa" width="100%"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H1sok444&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H1sok444/H1sok444/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
 </p>
 
 ---
