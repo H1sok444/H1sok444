@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_GIF_FILENAME.gif" alt="banner" width="80%"/>
+  <img src="his.gif" alt="banner" width="80%"/>
 </p>
 
 ---
