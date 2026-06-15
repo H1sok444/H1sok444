@@ -158,12 +158,6 @@ I write automation in **Python, PowerShell, and Bash**, build secure full-stack 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=H1sok444&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=a78bfa" width="100%"/>
-</p>
-
 ---
 
 ## 🎯 Current Focus
