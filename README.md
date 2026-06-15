@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H1sok444/H1sok444/main/his.gif" width="80%"/>
+  <video src="his.webm" autoplay loop muted playsinline width="80%"></video>
 </p>
 
 ---
