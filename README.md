@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-TOP%201%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="35"/>
 </a>
 
-<a href="https://www.hackthebox.com" target="_blank">
+<a href="https://app.hackthebox.com/public/users/2044383" target="_blank">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-Active%20Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="35"/>
 </a>
 
