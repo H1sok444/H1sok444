@@ -43,7 +43,7 @@
 "Hacking my way out"
 ```
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 💻 Profiles
+## Profiles
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H1sok444&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&count_private=true" height="180"/>
@@ -103,7 +103,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 current_focus:
