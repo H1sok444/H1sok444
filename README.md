@@ -100,7 +100,7 @@ With a **Master's in Information Systems Engineering**. I operate across the ful
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Profiles
 
 <div align="center">
 
