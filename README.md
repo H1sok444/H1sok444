@@ -41,37 +41,8 @@
 ## 👾 About
 
 ```
-"Learning and Improving Day by Day."
+"Hacking my way out"
 ```
-
-I am a **Cybersecurity Engineer** with a dual profile spanning **Offensive Security** and **Defensive Operations** — a rare combination that enables me to understand, simulate, and systematically counter real-world threats.
-
-With a **Master's in Information Systems Engineering**. I operate across the full security spectrum: from penetration testing web, network, API, and Active Directory environments to engineering SOC pipelines with SIEM, IDS/IPS, and automated incident response.
-
-**Open To:** Penetration Testing roles · SOC / Blue Team positions · Security Research · Offensive Security Engineering · Red Team operations
-
----
-
-## 🧠 Cybersecurity Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| **Penetration Testing** | ██████████ Expert | Web, Network, API, Active Directory, Mobile — PTES / OWASP Top 10 |
-| **SOC Operations** | █████████░ Advanced | SIEM correlation, alert triage, incident reporting, 88% TPR achieved |
-| **SIEM Engineering** | █████████░ Advanced | Wazuh, Splunk, OSSIM, ELK — custom detection rules, log pipelines |
-| **IDS/IPS Management** | ████████░░ Advanced | Suricata, Snort — network/application layer rulesets |
-| **Threat Intelligence** | ████████░░ Advanced | MISP, AlienVault OTX, VirusTotal — IOC enrichment & correlation |
-| **Vulnerability Assessment** | ██████████ Expert | Nessus, Nikto, Nmap, Burp Suite — risk scoring & remediation |
-| **Red Team Tooling** | ████████░░ Advanced | Metasploit, BloodHound, Sliver, Havoc, Empire, Impacket |
-| **Compliance & Frameworks** | ████████░░ Advanced | MITRE ATT&CK, ISO 27001, DNSSI, Cyber Kill Chain, ISO 22301 |
-| **Secure Development** | ███████░░░ Proficient | AppSec integration, OWASP remediation in source code |
-| **Network Security** | █████████░ Advanced | Firewall (WatchGuard, Fortinet), WAF, DLP, EDR/XDR |
-
-</div>
-
----
 
 ## 📜 Certifications
 
