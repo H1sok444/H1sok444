@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <video src="his.webm" autoplay loop muted playsinline width="80%"></video>
+  <img src="https://i.pinimg.com/originals/d4/41/43/d441431ee0f28cd288555783586ccbad.gif" width="80%"/>
 </p>
 
 ---
