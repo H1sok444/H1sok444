@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="his.gif" alt="banner" width="80%"/>
+  <img src="https://raw.githubusercontent.com/H1sok444/H1sok444/main/his.gif" width="80%"/>
 </p>
 
 ---
