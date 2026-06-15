@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Master's-Information%20Systems%20Engineering-6d28d9?style=flat-square&logo=graduation-cap&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B%20802%2F900-7c3aed?style=flat-square&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/TryHackMe-TOP%201%25-4c1d95?style=flat-square&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-5b21b6?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
