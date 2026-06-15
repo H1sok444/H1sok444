@@ -46,11 +46,7 @@
 
 I am a **Cybersecurity Engineer** with a dual profile spanning **Offensive Security** and **Defensive Operations** — a rare combination that enables me to understand, simulate, and systematically counter real-world threats.
 
-With a **Master's in Information Systems Engineering** (with distinction) and **CompTIA Security+ (802/900)**, I operate across the full security spectrum: from penetration testing web, network, API, and Active Directory environments to engineering SOC pipelines with SIEM, IDS/IPS, and automated incident response.
-
-I have executed engagements at **DataProtect**, built detection systems achieving **88% true positive rates** at **Annour Technologies**, and conducted network infrastructure audits for **AXA Assurance Samouh**. My tooling spans both red and blue sides — from **Burp Suite, Metasploit, BloodHound, and Sliver** on offense to **Wazuh, Splunk, Suricata, and ELK** on defense.
-
-I write automation in **Python, PowerShell, and Bash**, build secure full-stack applications, and apply frameworks including **MITRE ATT&CK, PTES, Cyber Kill Chain, and ISO 27001** in every engagement.
+With a **Master's in Information Systems Engineering**. I operate across the full security spectrum: from penetration testing web, network, API, and Active Directory environments to engineering SOC pipelines with SIEM, IDS/IPS, and automated incident response.
 
 **Open To:** Penetration Testing roles · SOC / Blue Team positions · Security Research · Offensive Security Engineering · Red Team operations
 
@@ -137,10 +133,6 @@ I write automation in **Python, PowerShell, and Bash**, build secure full-stack 
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
 </a>
 
-<a href="https://www.hackerrank.com" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Security%20Track-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="35"/>
-</a>
-
 </div>
 
 ---
@@ -191,11 +183,6 @@ current_focus:
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="mailto:oussamahalfaoui002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-oussamahalfaoui002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 <p align="center">
   <a href="https://linkedin.com/in/oussama-halfaoui">
     <img src="https://img.shields.io/badge/LinkedIn-oussama--halfaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
