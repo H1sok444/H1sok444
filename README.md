@@ -41,7 +41,7 @@
 ## 👾 About
 
 ```
-"I think like an attacker. I build like an engineer. I defend like it's my own."
+"Learning and Improving Day by Day."
 ```
 
 I am a **Cybersecurity Engineer** with a dual profile spanning **Offensive Security** and **Defensive Operations** — a rare combination that enables me to understand, simulate, and systematically counter real-world threats.
@@ -68,23 +68,6 @@ With a **Master's in Information Systems Engineering**. I operate across the ful
 | **Compliance & Frameworks** | ████████░░ Advanced | MITRE ATT&CK, ISO 27001, DNSSI, Cyber Kill Chain, ISO 22301 |
 | **Secure Development** | ███████░░░ Proficient | AppSec integration, OWASP remediation in source code |
 | **Network Security** | █████████░ Advanced | Firewall (WatchGuard, Fortinet), WAF, DLP, EDR/XDR |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🥇 **TryHackMe TOP 1%** | Ranked in the global top 1% on TryHackMe — profile: H1sok4 |
-| 🎓 **Master's — Mention Très Bien** | Graduated with highest distinction — Information Systems Engineering |
-| 🎓 **Bachelor's — Mention Très Bien** | Graduated with highest distinction — Computer Engineering |
-| 🛡️ **CompTIA Security+ 802/900** | Industry-standard offensive/defensive security certification |
-| 🔴 **TryHackMe AOC 2024 & 2025** | Completed Advent of Cyber both years — consistent threat simulation exposure |
-| 🔍 **AXA Pentest Mission** | Sole security engineer trusted with internal infrastructure audit for major insurer |
 
 </div>
 
@@ -147,8 +130,6 @@ With a **Master's in Information Systems Engineering**. I operate across the ful
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H1sok444&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=6d28d9" width="70%"/>
 </p>
-
----
 
 ---
 
