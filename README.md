@@ -16,14 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://oussama-halfaoui.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa&label=&labelColor=0f0c29"/>
-  </a>
   <a href="https://linkedin.com/in/oussama-halfaoui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
-  </a>
-  <a href="mailto:oussamahalfaoui002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
   </a>
   <a href="https://github.com/H1sok444" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa"/>
