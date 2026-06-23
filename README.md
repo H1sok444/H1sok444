@@ -37,10 +37,10 @@
 
 ---
 
-## 👾 About
+##
 
 ```
-"Hacking my way out"
+"It's be better to be a Warrior in a garden than being a Gardener in a War"
 ```
 
 ## Certifications
