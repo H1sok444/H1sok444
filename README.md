@@ -153,7 +153,7 @@ current_focus:
 ---
 
 <p align="center">
-  <i>"The attacker only needs to be right once. I make sure they never are."</i>
+  <i></i>
 </p>
 
 <p align="center">
